@@ -19,7 +19,6 @@ Meu nome é Yan e posto alguns projetos e o que venho estudando aqui.
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css3" alt="Css3" L" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
  </div>  
  
  ---
